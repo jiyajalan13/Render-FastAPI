@@ -50,3 +50,7 @@ A simple FastAPI blog API project.
 
 - The app currently uses SQLite by default (`blog.db`).
 - Use a `.env` file to override `DATABASE_URL` if needed.
+
+---
+
+Made with ❤️ by Jiya Jalan. Thanks for checking out this project! 🚀
